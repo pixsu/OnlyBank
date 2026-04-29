@@ -2,16 +2,20 @@
 
 ![Java](https://img.shields.io/badge/Java-8%2B-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Swing](https://img.shields.io/badge/GUI-Java%20Swing-007396?style=for-the-badge)
-![License](https://img.shields.io/badge/License-MIT-green?style=for-the-badge)
-![Status](https://img.shields.io/badge/Status-Complete-brightgreen?style=for-the-badge)
 
-A fully graphical ATM simulator built with Java Swing, featuring animated screens, PIN authentication, transaction receipts, and multiple banking services — all running on the desktop.
+
+
+A graphical ATM simulator built with Java Swing, featuring animated screens, PIN authentication, transaction receipts, and multiple banking services.
 
 ---
 
 ## Preview
 
-![OnlyBank ATM UI](1777455816312_image.png)
+![OnlyBank ATM UI](mainframe.png)
+![OnlyBank ATM UI](insert.gif)
+![OnlyBank ATM UI](login.png)
+![OnlyBank ATM UI](receipt.png)
+![OnlyBank ATM UI](loading.gif)
 
 > The ATM interface features a dark-themed display screen, numeric keypad, and function keys (ENTER, CLEAR, CANCEL) styled to mimic a real ATM machine.
 
@@ -148,13 +152,3 @@ onlybank/
 - Image assets are not bundled and must be sourced separately
 
 ---
-
-## Author
-
-Built as a Java Swing GUI project demonstrating event-driven programming, multi-screen navigation, and basic banking logic.
-
----
-
-## License
-
-This project is licensed under the [MIT License](LICENSE).
